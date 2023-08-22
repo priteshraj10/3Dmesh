@@ -1,4 +1,4 @@
-# 3D Mesh Generation with Python
+# 3D Mesh Generation
 
 This project offers tools and utilities to generate and manipulate 3D meshes using Python.
 
