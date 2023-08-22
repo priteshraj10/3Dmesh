@@ -1,9 +1,0 @@
-cff-version: 1.1.0
-message: "If you use 3DMesh in your research, please cite it using these metadata. Software is available from 3dmesh.org."
-title: 3DMesh, Advanced 3D modeling and processing
-abstract: 3DMesh is an advanced 3D modeling system designed for high performance and scalability. Built to function in diverse environments, 3DMesh utilizes dynamic computation graphs for representation, shared resources, and the operations that mutate such resources. The design ensures nodes of a computation graph are effectively distributed across multiple devices, spanning multicore CPUs, GPUs, and other computational units. This unique architecture grants developers unparalleled flexibility, allowing for experimentation with various optimizations and algorithms. While 3DMesh is tailored for a broad spectrum of applications, it particularly excels in processing and rendering of complex 3D models. As an integral part of several top-tier applications, 3DMesh's capabilities have made it an industry favorite, and this paper serves to delve deep into its structure, providing insights into its performance metrics and use-cases.
-authors:
-  - family-names: Raj
-    given-names: Pritesh
-date-released: "2023-08-22"
-license: "MIT"
