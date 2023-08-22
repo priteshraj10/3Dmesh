@@ -1,21 +1,23 @@
-MIT License
+# MIT License
+Copyright (c) 2023 Pritesh Raj
 
-Copyright (c) 2023 Pritesh raj 
+## Permissions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+* Use: You're granted the right to use the software.
+* Copy: You can duplicate the software.
+* Modify: Altering the software to suit your needs is permitted.
+* Merge: You can integrate the software into larger projects.
+* Publish: Publishing the software is allowed.
+* Distribute: You're free to distribute the software.
+* Sublicense: You can grant these rights to others.
+* Sell: You can sell copies of the software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+* Copyright Notice: The original copyright notice and this permission notice must be included in all copies or substantial portions of the software.
+* Warranty Disclaimer: The software is provided "as is" without any kind of warranty, either express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement.
+## Liability Limitation:
+The authors or copyright holders are not liable for any claim, damages, or other liabilities, whether in action of contract, tort, or otherwise, arising from or related to the software.
+
+## General Guidance:
+Always utilize this software responsibly and in accordance with the terms set here. Ensure you always acknowledge the original creator and seek legal counsel if in doubt about any licensing terms.
